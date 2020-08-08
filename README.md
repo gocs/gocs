@@ -7,9 +7,9 @@ I know how to use unity3d, ableton live, font forge, gimp, blender, and inkscape
 I occasionally play video games.
 I would only use golang for my backend.
 
-<span>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gocs&count_private=true&show_icons=true" />
-</span>
-<span>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gocs&layout=compact&hide=html,asp,css" />
-</span>
+</a>
