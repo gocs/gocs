@@ -1,6 +1,6 @@
 ### Hi there 👋, Thanks for checking out
 
-slack: @go je
+gopherslack: @go je
 
 I'm interested in maps (geography), game dev, multiplayer networking, dance music, a little bit of anime, constructed languages, and especially worldbuilding.
 I know how to use unity3d, ableton live, font forge, gimp, blender, and inkscape.
