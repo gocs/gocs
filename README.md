@@ -6,5 +6,5 @@ slack: @go je
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gocs&count_private=true&show_icons=true" />
 </span>
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gocs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gocs&layout=compact" />
 </span>
