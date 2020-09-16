@@ -19,7 +19,7 @@ I would only use golang for my backend.
 
 #### how to make a `go.mod` file
 
-The idiomatic rule for golang modules to be initialized is to have the repository location (i.e. URL) be the module name. The module is usually named `<repository host>/<user>/<repository name>` format.
+The idiomatic rule for golang modules to be initialized is to have the repository location (i.e. URL) be the module name. The module is usually named `<repository host>/<user>/<repository name>` format. The naming format also reflects my current working directory as `~/Desktop/github.com/gocs/<repository name>` for example.
 
 ```sh
 $ #             ↓ current directory
