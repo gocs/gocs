@@ -13,11 +13,6 @@ and especially ⚒ worldbuilding.\
 🎮 I occasionally play video games.\
 👨‍💻 I would only use golang for my backend.
 
-<br>
-🥟🌙🥐🔎<br>
-👑🍹⚖<br>
-<br><br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gocs&count_private=true&show_icons=true" />
 </a>
@@ -27,6 +22,14 @@ and especially ⚒ worldbuilding.\
 </a>
 
 <br><br><br><br><br><br><br><br><br>
+
+#### vtuber
+
+<br>
+🥟🌙🥐🔎<br>
+👑🍹⚖<br>
+<br><br>
+
 
 #### how to make a `go.mod` file
 
