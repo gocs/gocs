@@ -1,6 +1,6 @@
 ### Hi there 👋, Thanks for checking out
 
-ask a question?? <kbd>Submit a New Issue</kbd>
+ask a question?? [<kbd>Submit a New Issue</kbd>](https://github.com/gocs/gocs/issues/new)
 
 🗺 I'm interested in maps (geography)
 🎮 game dev,\
