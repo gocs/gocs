@@ -25,10 +25,10 @@ and especially ⚒ worldbuilding.\
 
 #### vtuber
 
-<br>
 🥟🌙🥐🔎<br>
 👑🍹⚖<br>
-<br><br>
+
+
 
 
 #### how to make a `go.mod` file
@@ -45,7 +45,7 @@ $ #             ↓    ↓                ↓          ↓                    �
 $ go mod init $(pwd| sed 's/\//\n/g'| tail -n 3| sed -ne 's/$/\/&/p'| tr -d '\r\n'| sed s'/.$//')
 ```
 
-<br>
+
 
 #### run into javascript browser guaranteed not hacking otherwise create an issue
 
