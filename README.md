@@ -1,6 +1,6 @@
 ### Hi there 👋, Thanks for checking out
 
-gopherslack: @go je
+ask a question?? <kbd>Submit a New Issue</kbd>
 
 🗺 I'm interested in maps (geography)
 🎮 game dev,\
