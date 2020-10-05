@@ -2,7 +2,7 @@
 
 ask a question?? [<kbd>Submit a New Issue</kbd>](https://github.com/gocs/gocs/issues/new)
 
-🗺 I'm interested in maps (geography)
+🗺 I'm interested in maps (geography) \
 🎮 game dev,\
 🌐 multiplayer networking,\
 🎛 electronic dance music,\
