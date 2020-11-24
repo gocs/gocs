@@ -1,4 +1,4 @@
-### Hi there 👋, Thanks for checking out
+### Hey guys 👋, Thanks for checking out
 
 ask a question?? [<kbd>Submit a New Issue</kbd>](https://github.com/gocs/gocs/issues/new)
 
