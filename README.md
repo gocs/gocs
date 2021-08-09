@@ -21,7 +21,7 @@ and especially ⚒ worldbuilding.\
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gocs&hide=html,asp,css&theme=dark" />
 </a>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### vtuber
 
