@@ -5,6 +5,7 @@ ask a question?? [<kbd>Start a new discussion</kbd>](https://github.com/gocs/goc
 🗺 worldbuilding.
 
 oshi:
+- 🥟
 - 🗿
 - (<strikethrough>🌿</strikethrough>)💭
 
