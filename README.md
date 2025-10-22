@@ -15,9 +15,9 @@ services:
 
 omarchy TODO ROADMAP:
 - POTPLAYER NATIVE SUPPORT on LINUX 😭😭
-- MICROSOFT IME EN/JP (MOZC is the best among the worst)
-- EMOJI PICKER
-- ABLETON LIVE / FL STUDIO NATIVE SUPPORT on LINUX
+- MICROSOFT IME EN/JP (MOZC is the OK among the worst)
+- EMOJI PICKER (used to add these 😭😭 in the editors and text areas)
+- ABLETON LIVE / FL STUDIO NATIVE SUPPORT on LINUX (NOT WINE)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gocs&count_private=true&show_icons=true&theme=dark" />
