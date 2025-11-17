@@ -6,6 +6,7 @@ ask a question?? [<kbd>Start a new discussion</kbd>](https://github.com/gocs/goc
 
 
 services:
+- [invoice-system](https://invoice.gocs.me)
 - [appointment-system](https://appointment-system-two.vercel.app)
 - [map](https://map.gocs.day)
 
