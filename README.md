@@ -4,10 +4,6 @@ ask a question?? [<kbd>Start a new discussion</kbd>](https://github.com/gocs/goc
 
 🗺 worldbuilding.
 
-oshi:
-- 🥟
-- 🗿
-- (<strikethrough>🌿</strikethrough>)💭
 
 services:
 - [appointment-system](https://appointment-system-two.vercel.app)
